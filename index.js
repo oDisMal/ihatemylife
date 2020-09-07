@@ -49,5 +49,5 @@ setTimeout(function(){
       $("#about").removeClass("animated fadeIn");
       $("#contact").removeClass("animated fadeIn");
       $("#work").removeClass("animated fadeIn");
-    },1000);
-},1500);
+    },250);
+},500);
